@@ -11331,7 +11331,7 @@
     "symbol": "PEAQ",
     "decimals": 18
   },
-  "rpc": ["https://quicknode1.peaq.xyz", "https://quicknode2.peaq.xyz", "https://quicknode3.peaq.xyz", "https://peaq-rpc.publicnode.com"],
+  "rpc": ["https://quicknode1.peaq.xyz", "https://quicknode2.peaq.xyz", "https://quicknode3.peaq.xyz"],
   "faucets": [],
   "infoURL": "https://www.peaq.xyz"
 }, {
@@ -12228,7 +12228,7 @@
     "symbol": "EDGEN",
     "decimals": 18
   },
-  "rpc": ["https://layeredge-mainnet-evm.itrocket.net", "https://layeredge.rpc.subquery.network/public", "https://rpc.layeredge.io", "https://rpc2.layeredge.io", "https://rpc.layeredge.foundation", "https://rpc2.layeredge.foundation"],
+  "rpc": ["https://layeredge-mainnet-evm.itrocket.net", "https://layeredge.rpc.subquery.network/public", "https://rpc.layeredge.io", "https://rpc.layeredge.foundation"],
   "faucets": [],
   "infoURL": "https://layeredge.io"
 }, {
@@ -27831,6 +27831,19 @@
   "rpc": ["https://testnet.tingchain.org", "https://public.0xrpc.com/6666689"],
   "faucets": [],
   "infoURL": "https://tingscan.com"
+}, {
+  "name": "Humanity Protocol",
+  "chainId": 6985385,
+  "shortName": "hp",
+  "networkId": 6985385,
+  "nativeCurrency": {
+    "name": "H",
+    "symbol": "H",
+    "decimals": 18
+  },
+  "rpc": ["https://humanity-mainnet.g.alchemy.com/public"],
+  "faucets": [],
+  "infoURL": "https://humanity.org"
 }, {
   "name": "COTI Testnet",
   "chainId": 7082400,
