@@ -5927,6 +5927,14 @@
     "format": "png"
   }]
 }, {
+  "name": "lukso-testnet",
+  "icons": [{
+    "url": "ipfs://bafkreih5ws7esaru5k4crjekr3d27jbjmikjtxwswu7r34yofyzqywiadi",
+    "width": 512,
+    "height": 512,
+    "format": "svg"
+  }]
+}, {
   "name": "nexis",
   "icons": [{
     "url": "ipfs://QmdJwWuMgbhoZhgFM4zWrZne6qs5ktcL1vBLKX12VGgALM",
@@ -6660,6 +6668,14 @@
     "url": "ipfs://QmdiEBREiSP9TBHqxV8Ap3kehvBktBWFCpXs3mkC4e18zM",
     "width": 500,
     "height": 500,
+    "format": "png"
+  }]
+}, {
+  "name": "nom",
+  "icons": [{
+    "url": "ipfs://QmVfJBGe7JpKJhG8hrSMU42RxhCSQ3ga3NSArA9vEFqF4C",
+    "width": 512,
+    "height": 512,
     "format": "png"
   }]
 }, {
@@ -7489,10 +7505,10 @@
 }, {
   "name": "lukso",
   "icons": [{
-    "url": "ipfs://Qmeg9sFF5tAGi6MCx7YjtVHW6a23zqvHRK1xwzSdp9iE7z",
+    "url": "ipfs://bafkreid3bbfc4jgzcurebnn6vwjcp6gxwewqpjep4nouqkq4k4jlmsldpy",
     "width": 512,
     "height": 512,
-    "format": "png"
+    "format": "svg"
   }]
 }, {
   "name": "altb",
